@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "MidGateway",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "https://midgateway.ai/favicon.ico",
   "colors": {
     "primary": "#12A7D3",
     "light": "#81D7F7",
@@ -14,12 +14,12 @@
   "topbarLinks": [
     {
       "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.midgateway.ai"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://midgateway.ai/app/dashboard"
   },
   "tabs": [
     {
@@ -51,9 +51,9 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/MidGatewayAI",
+    "github": "https://github.com/MidGateway",
+    "linkedin": "https://www.linkedin.com/"
   },
   "backgroundImage": "/background.png"
 }
