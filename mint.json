@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "MidGateway",
   "logo": {
-    "dark": "https://midgateway.ai/_static/logo.png",
-    "light": "https://midgateway.ai/_static/logo.png"
+    "dark": "/logo.png",
+    "light": "/logo.png"
   },
-  "favicon": "https://midgateway.ai/_static/logo.png",
+  "favicon": "/logo.png",
   "colors": {
     "primary": "#12A7D3",
     "light": "#81D7F7",
