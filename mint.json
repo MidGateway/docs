@@ -7,9 +7,9 @@
   },
   "favicon": "/logo/logo.png",
   "colors": {
-    "primary": "#12A7D3",
-    "light": "#81D7F7",
-    "dark": "#004E7A"
+    "primary": "#f59e0b",
+    "light": "#ffc35e",
+    "dark": "#a26500"
   },
   "topbarLinks": [
     {
